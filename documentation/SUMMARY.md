@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Image Compressor – Compress JPEG, PNG, WebP, GIF, SVG & More Online](README.md)
 
 ## Getting Started
 
